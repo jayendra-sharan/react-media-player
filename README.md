@@ -20,3 +20,6 @@ window.initMediaPlayer ({
   mute: true
 });
 ```
+
+## Note
+This media player uses font-awesome icons to display buttons, make sure to include font-awesome fonts.
